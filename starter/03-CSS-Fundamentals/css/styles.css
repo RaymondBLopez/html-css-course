@@ -83,9 +83,9 @@ li:last-child {
   font-style: italic;
 }
 
-li:nth-child(even) {
-  /* color: red; */
-}
+/* li:nth-child(even) {
+  color: red; 
+} */
 
 /* Styling links */
 a:link {
@@ -107,4 +107,5 @@ a:active {
   background-color: black;
   font-style: italic;
 }
+
 /*LVHA*/
